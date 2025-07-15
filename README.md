@@ -46,6 +46,6 @@ const desenvolvedor: Me = {
 ![DrizzleORM](https://img.shields.io/badge/DrizzleORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-853bce?style=for-the-badge&logo=railway&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/PrismaORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1A202C)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=1A202C)
 
 </div>
